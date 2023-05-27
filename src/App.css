@@ -1,0 +1,202 @@
+/* NAV SECTION */
+
+.header{
+  width: 100%;
+  /* position: fixed !important; */
+  background-color:white;
+}
+.logoimg{
+padding-bottom:10px;
+  margin: 5px 0px 10px 80px;
+  width:100px;
+  height:88px;
+}
+
+.headicon{
+  font-size:21px;
+ padding-left: 82%;
+ padding-top:1%;
+}
+.headicon i{
+  padding-left:28px;
+}
+.liststyle li{
+  font-family:Arial, Helvetica, sans-serif ;
+  padding-left: 22px;
+  list-style-type: none;
+  font-size: 14px;
+  font-weight: bold;
+  padding-top:3%;
+  float: left; 
+}
+.backimg{
+
+   background:url("images/back5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 110vh;
+  padding: 100px 0px 50px 50px;
+}
+.backbox{
+  height:75%;
+  width:35%;
+  border-radius:10px;
+  border:2px solid black;
+  margin-top:-120px;
+}
+.backbox button{
+  margin-left:30%;
+  background: transparent;
+}
+.backbox p{
+  text-align: center;
+  font-size:17px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  letter-spacing:1px;
+}
+.services{
+  background-color: whitesmoke;
+  padding:30px;
+}
+.services h1{
+  text-align: center;
+
+}
+.para{
+  text-align:center;
+  font-size:17px;
+  padding-top: 3%;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.aboutenvi{
+  padding: 30px 31px 0px 100px;
+}
+.box{
+  font-size:17px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.box p{
+  padding-top:1%;
+}
+.box i{
+  font-size: 27px;
+  color:#0b6b21;
+  text-align: center;
+  padding-bottom: 1%;
+}
+.stepfarm{
+  padding:30px;
+ padding-top: 3%;
+
+}
+.stepfarm img{
+   height:330px;
+   width:490px;
+   padding-left:20px;
+}
+.gardenpara{
+  font-size: 17px;
+  font-family:Arial, Helvetica, sans-serif;
+  word-spacing:2px;
+  padding-right:5%;
+}
+.stepfarm button{
+  padding:8px;
+  width: 25%;
+padding-top: 2%;
+}
+.journey{
+  padding-top: 5%;
+  background-color:whitesmoke;
+  padding: 20px;
+}
+.journey p{
+  font-size:17px;
+  padding-top: 2%;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.journey h2{
+  text-align: center;
+}
+.journeypara{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:17px;
+  letter-spacing: 1px;
+  padding-left:8% ;
+  padding-right: 8%;
+}
+.journey button{
+  background-color: black;
+  color: white;
+  width:13%;
+  padding:5px;
+  margin-top: 2%;
+ margin-left: 40%;
+}
+.plantation img {
+  height:500px;
+  width:600px;
+  
+  
+}
+.plantation{
+  margin-top: 4%;
+  background-color:#1A0000;
+}
+.plantpara {
+  background-color:#1A0000;
+  letter-spacing:1px;
+  padding:3%;
+  color:whitesmoke;
+  
+}
+.quote p{
+  font-size:23px;
+  font-weight: 100;
+  font-family:cursive;
+  text-align: center;
+}
+.quote{
+  background-color: whitesmoke;
+  padding-top:4%;
+  padding:7%;
+}
+.imagesection{
+  padding-left:2%;
+  padding-top: 2%;
+}
+
+.imagesection img{
+  height:350px;
+  width:385px;
+}
+.pictures{
+  
+  background-color: #1A0000;
+}
+.pictures img{
+  height:130px;
+  margin:1%;
+  width:125px;
+}
+.kodai img{
+    width:180px;
+    height:140px;
+   margin-left: 42%;
+   padding-top: 2%;
+   
+}
+.kodai {
+  background-color:#1A0000;
+}
+.foot{
+  background-color:#1A0000;
+}
+.foot p{
+  color: whitesmoke;
+  text-align: center;
+  font-size:13px;
+  letter-spacing:2px;
+  padding:20px;
+}
