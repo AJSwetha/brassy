@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/brassy/static/css/main.99c429e1.css",
+    "main.js": "/brassy/static/js/main.20e7ed99.js",
+    "static/js/787.d0cebc77.chunk.js": "/brassy/static/js/787.d0cebc77.chunk.js",
+    "static/media/back5.jpg": "/brassy/static/media/back5.a403c4e9ed09f6635dbc.jpg",
+    "static/media/stepfarms.jpg": "/brassy/static/media/stepfarms.3fdf07311df3d2e5c341.jpg",
+    "static/media/pic1.jpg": "/brassy/static/media/pic1.8cfec9d2467b885039a4.jpg",
+    "static/media/pic8.jpg": "/brassy/static/media/pic8.074ac9273456d6722c42.jpg",
+    "static/media/pic4.jpg": "/brassy/static/media/pic4.806b95ed7f9f1318c132.jpg",
+    "static/media/tourister.jpg": "/brassy/static/media/tourister.83d7d96ab14372f53e68.jpg",
+    "static/media/agri.jpg": "/brassy/static/media/agri.8ef3a1a56192632862eb.jpg",
+    "static/media/pic3.jpg": "/brassy/static/media/pic3.011085679cd76efffb47.jpg",
+    "static/media/tree.jpg": "/brassy/static/media/tree.f3c9cd6f50754340ba3a.jpg",
+    "static/media/jcb.jpg": "/brassy/static/media/jcb.c51c0f54d77bbd37a642.jpg",
+    "static/media/kodailogo.png": "/brassy/static/media/kodailogo.f88accb3c2d21e40017d.png",
+    "static/media/pic2.jpg": "/brassy/static/media/pic2.e986617f0e12ba1c8851.jpg",
+    "index.html": "/brassy/index.html",
+    "main.99c429e1.css.map": "/brassy/static/css/main.99c429e1.css.map",
+    "main.20e7ed99.js.map": "/brassy/static/js/main.20e7ed99.js.map",
+    "787.d0cebc77.chunk.js.map": "/brassy/static/js/787.d0cebc77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99c429e1.css",
+    "static/js/main.20e7ed99.js"
+  ]
+}
